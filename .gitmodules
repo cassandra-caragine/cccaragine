@@ -1,0 +1,3 @@
+[submodule "hugo-astatine-theme"]
+	path = hugo-astatine-theme
+	url = https://github.com/hugcis/hugo-astatine-theme
