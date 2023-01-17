@@ -1,6 +1,13 @@
-baseURL = "http://example.org"
-languageCode = 'en-us'
-title = "title"
+# This is the configuration file for the example website of the Hugo theme
+# Astatine (see https://github.com/hugcis/hugo-astatine-theme).
+#
+# The URL from which the site will be served
+baseurl = "https://hugcis.github.io/hugo-astatine-theme/"
+# Language used
+languageCode = "en-us"
+# Website title
+title = "Astatine Theme"
+# Theme used
 theme = "hugo-astatine-theme"
 
 preserveTaxonomyNames = true
